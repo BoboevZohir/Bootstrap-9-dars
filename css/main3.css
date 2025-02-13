@@ -1,0 +1,23 @@
+.photos{
+    width: 350px;
+    height: 300px;
+    background-position: center;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.aqua{
+    background-color: rgb(0, 255, 255, 0.0);
+    /**/
+}
+.backg{
+    color: wheat;
+    background: linear-gradient(90deg, rgb(38, 206, 128), rgb(34, 167, 167), rgb(28, 144, 227)); 
+    border: 0px;
+}
+p{
+    margin-left: 500px;
+    margin-top: -150px;
+}
+.tgma{
+    margin-left: 740px;
+}
